@@ -1,0 +1,14 @@
+/*错误的正则表达式*/
+\ba.*\b
+/*正确的正则表达式*/
+\ba\w*\b
+
+/*测试文本*/
+admin
+xxaxx
+a
+xx
+xx axx 
+a_,?x
+admin, base
+case admin base

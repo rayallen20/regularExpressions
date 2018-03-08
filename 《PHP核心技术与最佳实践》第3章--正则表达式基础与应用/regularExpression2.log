@@ -1,0 +1,9 @@
+/*正则表达式*/
+\bhe\b.*\bis\b
+/*文本内容*/
+he is
+xx he xx is
+xxhe xx is
+xxhexxis
+he
+is
