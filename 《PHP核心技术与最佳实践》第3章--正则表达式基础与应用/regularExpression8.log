@@ -1,0 +1,9 @@
+/*正则表达式*/
+Windows\d{1,}
+Windows\d+
+
+/*测试文本*/
+Windows1
+Windows1234
+Windows1,2,3,4
+Windows

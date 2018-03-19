@@ -1,0 +1,9 @@
+/*正则表达式*/
+index\d{0,1}$
+index\d?$
+
+/*测试文本*/
+index1
+index
+index1234
+index1,2,3,4
