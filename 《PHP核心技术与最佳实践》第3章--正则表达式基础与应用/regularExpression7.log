@@ -1,0 +1,12 @@
+/*正则表达式*/
+\ba[a-z]*\b
+
+/*测试文本*/
+admin
+xxaxx
+a
+xx
+xx axx 
+a_,?x
+admin, base
+case admin base
