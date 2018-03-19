@@ -1,0 +1,9 @@
+/*正则表达式*/
+[aeiou]+
+
+/*测试文本*/
+cat
+caeiout
+cabedehidotu
+caeiout
+bcdf
