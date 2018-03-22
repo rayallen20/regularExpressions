@@ -1,0 +1,13 @@
+/*我的答案*/
+\b\w+\b(?=\.exe)
+
+/*网上答案*/
+.+(?=\.exe)
+
+/*测试文本*/
+notexefile1.txt
+exefile1.exe
+exefile2.exe
+exefile3.exe
+notexefile2.php
+notexefile3.sh
